@@ -1,0 +1,1 @@
+"""Reserved for persistence models when the matching service needs storage."""
